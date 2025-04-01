@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2229 Commits
+                            2233 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.82904228599565" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="204.82904228599565" y="0" width="99.52475055987789" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="304.35379284587356" y="0" width="72.55040058054212" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="376.9041934264157" y="0" width="33.44919030017045" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="410.3533837265861" y="0" width="27.63675760931792" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="437.99014133590407" y="0" width="10.1104714636983" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.10061279960235" y="0" width="9.120532373414836" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.2211451730172" y="0" width="2.7788548269828053" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.79397383473022" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="204.79397383473022" y="0" width="99.58646694821965" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="304.38044078294985" y="0" width="72.53797934301325" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="376.9184201259631" y="0" width="33.443463518036346" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="410.3618836439994" y="0" width="27.632025964446957" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="437.99390960844636" y="0" width="10.108740466121793" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.10265007456815" y="0" width="9.118970861719609" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.22162093628776" y="0" width="2.7783790637121957" height="8" fill="#878787"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1317,7 +1317,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2025, 10:05:31 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Apr 2025, 11:04:36 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
